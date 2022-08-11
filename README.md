@@ -9,7 +9,7 @@
 
 ## Output Example
 **Request:** `GET .../btc/usd/`
-```js
+```json
 {
     "retrievedAt": "2022-08-11T19:54:57.087Z",
     "retrievedAgo": 0.019,
