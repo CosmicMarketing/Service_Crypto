@@ -1,5 +1,5 @@
 name = "crypto"
-workers_dev = false
+workers_dev = true
 compatibility_date = "2022-07-28"
 node_compat = true
 main = "./src/index.ts"
